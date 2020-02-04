@@ -12,3 +12,5 @@ you love me !
 I love you!
 
 add merge
+
+fixed conflicts
